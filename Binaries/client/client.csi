@@ -1,0 +1,22 @@
+[History]
+1=#P0#=mb	#P1#=SendPlayerRequestNewMap	#P2#=EclipseOriginsClient/modClientTCP/SendPlayerRequestNewMap	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150226065135	#P7#=0	#P8#=14	.
+2=#P0#=mb	#P1#=cmdOk_Click	#P2#=EclipseOriginsClient/frmEditor_MapProperties/cmdOk_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150226063020	#P7#=0	#P8#=23	.
+3=#P0#=mb	#P1#=UpdateCamera	#P2#=EclipseOriginsClient/modGraphics/UpdateCamera	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150226062041	#P7#=0	#P8#=12	.
+4=#P0#=mb	#P1#=HandleCheckForMap	#P2#=EclipseOriginsClient/modHandleData/HandleCheckForMap	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150226060421	#P7#=0	#P8#=13	.
+5=#P0#=mb	#P1#=HandlePlayerXYMap	#P2#=EclipseOriginsClient/modHandleData/HandlePlayerXYMap	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150226055321	#P7#=0	#P8#=17	.
+6=#P0#=mb	#P1#=HandleMapDone	#P2#=EclipseOriginsClient/modHandleData/HandleMapDone	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150226055055	#P7#=0	#P8#=33	.
+7=#P0#=mb	#P1#=Form_Resize	#P2#=EclipseOriginsClient/frmMain/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150226053222	#P7#=0	#P8#=17	.
+8=#P0#=mb	#P1#=InitDX8	#P2#=EclipseOriginsClient/modGraphics/InitDX8	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150226052304	#P7#=0	#P8#=15	.
+9=#P0#=mb	#P1#=NpcEditorInit	#P2#=EclipseOriginsClient/modGameEditors/NpcEditorInit	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150222052730	#P7#=0	#P8#=60	.
+10=#P0#=mb	#P1#=chkProjectile_Click	#P2#=EclipseOriginsClient/frmEditor_NPC/chkProjectile_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150222052659	#P7#=0	#P8#=9	.
+11=#P0#=mb	#P1#=form_MouseMove	#P2#=EclipseOriginsClient/frmMain/form_MouseMove	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150222051532	#P7#=0	#P8#=16	.
+12=#P0#=mb	#P1#=Form_KeyDown	#P2#=EclipseOriginsClient/frmMain/Form_KeyDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150222003142	#P7#=0	#P8#=75	.
+13=#P0#=mb	#P1#=Form_MouseUp	#P2#=EclipseOriginsClient/frmMain/Form_MouseUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150222000230	#P7#=0	#P8#=2	.
+14=#P0#=mb	#P1#=Main	#P2#=EclipseOriginsClient/modGeneral/Main	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150222000055	#P7#=0	#P8#=233	.
+15=#P0#=mb	#P1#=Form_Load	#P2#=EclipseOriginsClient/frmAdmin/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150221235243	#P7#=0	#P8#=1	.
+16=#P0#=mb	#P1#=form_MouseDown	#P2#=EclipseOriginsClient/frmMain/form_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150221235043	#P7#=0	#P8#=45	.
+17=#P0#=mb	#P1#=form_dblClick	#P2#=EclipseOriginsClient/frmMain/form_dblClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150221234952	#P7#=0	#P8#=1	.
+18=#P0#=mb	#P1#=Render_Graphics	#P2#=EclipseOriginsClient/modGraphics/Render_Graphics	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150221234754	#P7#=0	#P8#=23	.
+19=#P0#=mb	#P1#=DownloadFile	#P2#=EclipseOriginsClient/modUpdate/DownloadFile	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150221234631	#P7#=0	#P8#=24	.
+20=#P0#=mb	#P1#=Render_Menu	#P2#=EclipseOriginsClient/modGraphics/Render_Menu	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150221234520	#P7#=0	#P8#=33	.
+21=#P0#=mb	#P1#=TryCreateDirectX8Device	#P2#=EclipseOriginsClient/modGraphics/TryCreateDirectX8Device	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20150221234516	#P7#=0	#P8#=31	.
